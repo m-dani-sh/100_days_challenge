@@ -1,6 +1,6 @@
-# 100_days_challenge
+# 100_days_challenge for typescript
  
- ##*Day 1 Challenge: Start Coding!*
+ ###*Day 1 Challenge: Start Coding!*
 
 *Question 1:* Install Node.js, TypeScript and VS Code on your computer/Laptop.
 
@@ -9,7 +9,7 @@
 *Question 3:* Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
 
   
- ##*Day 2 Challenge: Start Coding!* 
+ ###*Day 2 Challenge: Start Coding!* 
 
 *Question 1:* Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotation marks:
 "Albert Einstein once said, “A person who never made a mistake never tried anything new.”"
