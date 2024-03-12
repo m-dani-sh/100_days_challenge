@@ -25,7 +25,7 @@ function replaceGuest(oldGuest: string, newGuest: string): void {
 }
 replaceGuest("Junaid", "Danish");
 guestList.forEach(guest => {
-console.log(`I would like to invite for dinner ${guest}`);
+console.log(`I would like to invite for dinner ${guest}`)
 });
 
 
